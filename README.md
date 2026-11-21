@@ -1,1 +1,1 @@
-
+Driven by curiosity and a passion for how things work under the hood, I spend my free time immersed in the world of Information Technology and Software Engineering. Whether I am building applications from scratch, diving deep into code to recompile and optimize existing software, or unwinding with the latest video games, technology is at the core of everything I do. For me, coding and gaming aren't just hobbies—they are continuous exercises in problem-solving, creativity, and pushing digital boundaries.
